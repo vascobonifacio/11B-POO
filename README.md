@@ -17,5 +17,12 @@ Site de suporte das aulas de Programação Orientada a Objetos
 * Eclipse IDE for Java Developers
 (https://www.eclipse.org/downloads/packages/release/2018-12/r/eclipse-ide-java-developers)
 
+### Alternativas:
+* Visual Studio Code (https://code.visualstudio.com)
+  * Atenção que é necessário instalar os plugings JAVA.
+* Editores Online (apenas para programas sem classes gráficas)
+  * https://www.tutorialspoint.com/compile_java_online.php
+  * https://www.jdoodle.com/online-java-compiler
+
 ## Bibliografia
 * https://www.oracle.com/technetwork/topics/newtojava/overview/index.html
