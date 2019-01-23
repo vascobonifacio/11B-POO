@@ -5,6 +5,7 @@ Site de suporte das aulas de Programação Orientada a Objetos
 - 31-Jan: Teste de Avaliação #3 
 - 31-Jan: Enunciado do Trabalho #4
 - 07-Fev: Entrega do Trabalho #4
+- 21-Mar: Teste de Avaliação #4
 
 ## Conteúdos das Aulas | Sumários | Enunciados de TPC
 * A serem atualizados na Wiki https://github.com/WorkforceForTheFuture/11B-POO/wiki
