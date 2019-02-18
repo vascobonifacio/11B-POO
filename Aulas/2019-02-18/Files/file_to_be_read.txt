@@ -1,0 +1,4 @@
+olá
+este é um ficheiro
+muito simples
+1 2 3
